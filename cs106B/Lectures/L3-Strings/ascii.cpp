@@ -20,6 +20,7 @@ int main() {
         cipherText += cipherChar;
     }
 
+    cout << "test wsl" << endl;
     cout << "Plain text:  " << plainText << endl;
     cout << "Cipher text: " << cipherText << endl;
 }
