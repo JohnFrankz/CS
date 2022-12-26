@@ -19,7 +19,8 @@ int main() {
         }
         cipherText += cipherChar;
     }
-
+    
+    cout << "test windwos" << endl;
     cout << "test wsl" << endl;
     cout << "Plain text:  " << plainText << endl;
     cout << "Cipher text: " << cipherText << endl;
